@@ -1,0 +1,10 @@
+{
+  "json-server": [
+    {
+      "name": "Glitchy",
+      "department": "Network",
+      "salary": "5000",
+      "id": 1
+    }
+  ]
+}
